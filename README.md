@@ -42,3 +42,7 @@ After the lecture is done, the user has to go through a simple quiz which tests 
 ![quiz2](https://user-images.githubusercontent.com/99459415/184805464-4be66eff-601a-4f69-937c-a1d39f789483.jpg)
 
 ![quiz](https://user-images.githubusercontent.com/99459415/184804417-ea81cd09-7d07-4c4a-a779-442d6efb5026.jpg)
+
+
+### Just now in :
+Our University, Sastra Deemed to be University, Thanjavur, Tamil Nadu has selected our project and our application will be deployed in 75 Oculus Quest 2 devices and are distributed to 75 schools all across Tamilnadu.
