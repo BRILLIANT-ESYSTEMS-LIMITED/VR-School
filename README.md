@@ -11,8 +11,6 @@ Once the user opens the application, they'll be viewing the homepage. The user i
 After they sekect a module, the screen changes to the respective module's intro page. From there, the course starts. The user can interact with the high definiton 3D models in real time and learn more about the concepts taught in the lecture. 
 After the lecture is done, the user has to go through a simple quiz which tests their understanding on the concepts taught before. Based on the score obtained in the quiz, the application automatically judges the grasping power of the user and suggests them further modules.
 
-# Implementation Video
-
 # Technologies used
  * The environment was designed using 3D models downloaded from the internet and modified using Blender3D.
  * The animation of 3D models were scripted using C# in Unity3D.
